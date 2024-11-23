@@ -1,5 +1,6 @@
 <!-- ########################################## ########################################## -->
 <img width="200%" src="hr.gif" />
+<img width="200%" src="mine.gif" />
 
 
 👋 Hello! I’m a budding game developer diving into the world of game creation. Currently learning C++ to build my skills and create interactive experiences. I’m passionate about exploring game mechanics, crafting stories, and bringing creative ideas to life.
