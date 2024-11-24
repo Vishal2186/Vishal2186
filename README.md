@@ -2,10 +2,12 @@
 <img width="200%" src="hr.gif" />
 <img width="200%" src="mine.gif" />
 
-👋 Hello! I’m a budding game developer diving into the world of game creation. Currently learning C++ to build my skills and create interactive experiences. I’m passionate about exploring game mechanics, crafting stories, and bringing creative ideas to life.
+## 👋 Hello! I am Vishal Meena <img align="left" height="30" width="30"  src="https://img.icons8.com/external-anggara-flat-anggara-putra/32/null/external-verified-ui-basic-anggara-flat-anggara-putra.png" />
+
+A budding game developer diving into the world of game creation. Currently learning C++ to build my skills and create interactive experiences. I’m passionate about exploring game mechanics, crafting stories, and bringing creative ideas to life.
 <tbody>
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=codexliner&label=Profile%20views&color=0e75b6&style=flat" alt="codexliner" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishal2186&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal2186" /> </p>
 <table>
     <tbody border="0" cellspacing="0" cellpadding="0">
         <tr  style="width:70%">
