@@ -38,6 +38,16 @@ Let’s connect and create something amazing together!
 <img src="dino.gif"  width="75%" data-canonical-src="https://i.ibb.co/y5L7gMZ/dino-rounded-1.gif&quot;" style="max-width: 100%;" >
 </p>
 
+## Links
+
+<p align="center">
+  <a href="mailto:vishal.609.vishal.609@gmail.com"><img  width = 30 src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+   <a href="https://www.instagram.com/vishal__meena.609?igsh=MWIkdWc2N3FnMmpjbQ=="><img width = 30  src="https://img.icons8.com/color/32/000000//instagram-new.png" alt="linkedin"/></a>
+</p>
+
+#
+
+
 <img src="https://readme-jokes.vercel.app/api?hideBorder=false&theme=vue-dark&qColor=#ffffff&aColor=#ffffff" alt="Error fetching resource, Refresh again to view Jokes Card"  width = '11000' />
 <img width="200%" src="hr.gif" />
 <!-- ########################################## ########################################## -->
