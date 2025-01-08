@@ -31,7 +31,7 @@ Let’s connect and create something amazing together!
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Vishal2186&show_icons=true&theme=bear&hide_border=fals" width = "42.4%">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=codexliner&theme=bear&hide_border=false" width = "45%">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Vishal2186&theme=bear&hide_border=false" width = "45%">
 </p>
 <!-- <hr></hr> -->
 <div align="center" width="50">
