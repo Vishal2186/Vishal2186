@@ -46,7 +46,8 @@ Let’s connect and create something amazing together!
 <p align="center">
   <a href="mailto:vishal.609.vishal.609@gmail.com"><img  width = 30 src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
    <a href="https://www.instagram.com/vishal__meena.609?igsh=MWIkdWc2N3FnMmpjbQ=="><img width = 30  src="https://img.icons8.com/color/32/000000//instagram-new.png" alt="instagram"/></a>
-<img width="10%" align="right" alt="Them" src="them.gif" />
+<a href="www.linkedin.com/in/Vishal2186"><img width = 30  src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+  <img width="10%" align="right" alt="Them" src="them.gif" />
 </p>
 
 #
