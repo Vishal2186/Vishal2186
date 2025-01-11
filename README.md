@@ -27,7 +27,7 @@ Let’s connect and create something amazing together!
               
 </table>
 </tbody>
-<img width="30.5%" align="right" alt="gif" src="naruto.gif" />
+<img width="30.5%" height="229" align="right" alt="gif" src="naruto.gif" />
 
 ```dart
 // Languages and Tools
