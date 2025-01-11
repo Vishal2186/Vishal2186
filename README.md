@@ -28,6 +28,19 @@ Let’s connect and create something amazing together!
 </table>
 </tbody>
 
+```dart
+// Languages and Tools
+class About extends Me {
+  const myTools = {
+    "ProgramingLanguages" : { "C++", "C", "C#", "Python" },
+    "OtherLanguages" : { "HTML", "CSS" },
+    "Editors" : { "Vscode", "ZED" },
+    "Platforms" : { "MAC", "Windows" },
+    "GameEngine" : { "Unity" },
+  };
+}
+```
+
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Vishal2186&show_icons=true&theme=bear&hide_border=fals" width = "42.4%">
