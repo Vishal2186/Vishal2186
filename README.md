@@ -74,7 +74,7 @@ class About extends Me {
   
 <img width="9.7%" align="right" alt="Them" src="pics/naruhina.gif" />
 <img width="10%" align="right" alt="Them" src="pics/them.gif" />
-<img width="10%" height="51" align="right" alt="Them" src="pics/naruhina2.gif" />
+<img width="8.9%" align="right" alt="Them" src="pics/naruhina2.gif" />
 </p>
 
 #
