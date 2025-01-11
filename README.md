@@ -62,10 +62,19 @@ class About extends Me {
 ## Links
 
 <p align="center">
-  <a href="mailto:vishal.609.vishal.609@gmail.com"><img  width = 30 src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-   <a href="https://www.instagram.com/vishal__meena.609?igsh=MWIkdWc2N3FnMmpjbQ=="><img width = 30  src="https://img.icons8.com/color/32/000000//instagram-new.png" alt="instagram"/></a>
+<a href="mailto:vishal.609.vishal.609@gmail.com"><img  width = 30 src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+<a href="https://www.instagram.com/vishal__meena.609?igsh=MWIkdWc2N3FnMmpjbQ=="><img width = 30  src="https://img.icons8.com/color/32/000000//instagram-new.png" alt="instagram"/></a>
 <a href="https://www.linkedin.com/in/vishal2186"><img width = 30  src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
- <img width="10%" align="left" alt="gif" src="pics/the.gif" /> <img width="10%" align="right" alt="Them" src="pics/them.gif" />
+
+<!-- <img width="5%" align="left" alt="gif" src="pics/honoredOne.gif" /> -->
+ <img width="8%" align="left" alt="gif" src="pics/geto4.gif" /> 
+ <img width="5.7%" align="left" alt="gif" src="pics/gojo.gif" /> 
+ <img width="10%" align="left" alt="gif" src="pics/geto.gif" /> 
+<!-- <img width="10%" align="left" alt="gif" src="pics/the.gif" /> -->
+  
+<img width="10%" align="right" alt="Them" src="pics/naruhina.gif" />
+<img width="10%" align="right" alt="Them" src="pics/them.gif" />
+<img width="10%" height="51" align="right" alt="Them" src="pics/naruhina2.gif" />
 </p>
 
 #
