@@ -65,7 +65,7 @@ class About extends Me {
   <a href="mailto:vishal.609.vishal.609@gmail.com"><img  width = 30 src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
    <a href="https://www.instagram.com/vishal__meena.609?igsh=MWIkdWc2N3FnMmpjbQ=="><img width = 30  src="https://img.icons8.com/color/32/000000//instagram-new.png" alt="instagram"/></a>
 <a href="https://www.linkedin.com/in/vishal2186"><img width = 30  src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
- <img width="10%" align="left" alt="gif" src="the.gif" /> <img width="10%" align="right" alt="Them" src="them.gif" />
+ <img width="11%" height="55" align="left" alt="gif" src="https://64.media.tumblr.com/1a4de03fc1baad836c821f14a78c6cf0/tumblr_mrc037jCJ91s97ys9o1_400.gif" /> <img width="10%" align="right" alt="Them" src="them.gif" />
 </p>
 
 #
