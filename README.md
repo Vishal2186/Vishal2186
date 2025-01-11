@@ -23,13 +23,13 @@ A budding game developer diving into the world of game creation. Currently learn
 * Collaborate with other developers to expand my skills
 * Share and learn through open-source projects
 
-Let’s connect and create something amazing together!
-              
+Let’s connect and create something amazing together!        
 </table>
 </tbody>
 
+
 ##
-<img width="30.5%" height="200" align="right" alt="gif" src="naruto.gif" />
+<img width="40%" height="230"  align="right" alt="gif" src="naruto.gif" />
 
 ```dart
 // Languages and Tools
