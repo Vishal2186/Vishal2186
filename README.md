@@ -35,7 +35,7 @@ Let’s connect and create something amazing together!
 </tbody>
 
 ##
-<img width="30.5%" height="200" align="right" alt="gif" src="pics/naruto.gif" />
+<img  width="36%" align="right" alt="gif" src="pics/naruto.gif" />
 
 ```dart
 // Languages and Tools
