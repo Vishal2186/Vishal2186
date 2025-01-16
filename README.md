@@ -2,7 +2,7 @@
 <img width="200%" src="pics/hr.gif" />
 <img width="200%" src="pics/dev.gif" />
 
-## 👋 Hello! I am Vishal Meena <img align="left" height="30" width="30"  src="https://img.icons8.com/external-anggara-flat-anggara-putra/32/null/external-verified-ui-basic-anggara-flat-anggara-putra.png" />
+##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> Hello! I am Vishal Meena <img align="left" height="30" width="30"  src="https://img.icons8.com/external-anggara-flat-anggara-putra/32/null/external-verified-ui-basic-anggara-flat-anggara-putra.png" />
 
 A budding game developer diving into the world of game creation. Currently learning C++ to build my skills and create interactive experiences. I’m passionate about exploring game mechanics, crafting stories, and bringing creative ideas to life.
 <tbody>
