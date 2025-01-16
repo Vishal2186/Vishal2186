@@ -13,7 +13,7 @@ A budding game developer diving into the world of game creation. Currently learn
         <tr  style="width:70%">
            <td rowspan=6>
            
-🌱 What I’m working on:   <img width="30%" align="right" alt="Github Image" src="pics/this.gif" />
+🌱 What I’m working on:   <!-- <img width="30%" align="right" alt="Github Image" src="pics/this.gif" /> -->
 * Building my first games and demos in C++
 * Experimenting with game engines like Unity and Unreal Engine 
 * Growing my knowledge in coding, physics, and design principles 
@@ -24,6 +24,12 @@ A budding game developer diving into the world of game creation. Currently learn
 * Share and learn through open-source projects
 
 Let’s connect and create something amazing together!
+
+  </td>
+        </tr>
+        <tr>
+            <td width="35%"> <img align="right" alt="Github Image" src="pics/this.gif" /> </td>
+        </tr>
               
 </table>
 </tbody>
