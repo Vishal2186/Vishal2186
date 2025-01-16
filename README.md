@@ -40,7 +40,6 @@ Let’s connect and create something amazing together!
         <tr  style="width:70%">
            <td rowspan=6>
            
-
 ```dart
 // Languages and Tools
 class About extends Me {
@@ -62,6 +61,35 @@ class About extends Me {
               
 </table>
 </tbody>
+
+
+
+<!-- <table>
+    <tbody border="0" cellspacing="0" cellpadding="0">
+        <tr  style="width:70%">
+           <td rowspan=6>
+          
+```dart
+// Languages and Tools
+class About extends Me {
+  const myTools = {
+    "ProgramingLanguages" : { "C++", "C", "C#", "Python" },
+    "OtherLanguages" : { "HTML", "CSS" },
+    "Editors" : { "Vscode", "ZED" },
+    "Platforms" : { "MAC", "Windows" },
+    "GameEngine" : { "Unity" },
+  };
+}
+```
+
+  </td>
+        </tr>
+        <tr>
+            <td width="35%"> <img align="right" alt="gif" src="pics/naruto.gif" /> </td>
+        </tr>
+              
+</table>
+</tbody> -->
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Vishal2186&show_icons=true&theme=material-palenight&hide_border=fals&border_radius=15&date_format=j%20M%5B%20Y%5D" width = "42.4%">
