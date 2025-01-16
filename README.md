@@ -34,8 +34,12 @@ Let’s connect and create something amazing together!
 </table>
 </tbody>
 
-##
-<img  width="36%" align="right" alt="gif" src="pics/naruto.gif" />
+
+<table>
+    <tbody border="0" cellspacing="0" cellpadding="0">
+        <tr  style="width:70%">
+           <td rowspan=6>
+           
 
 ```dart
 // Languages and Tools
@@ -50,6 +54,14 @@ class About extends Me {
 }
 ```
 
+  </td>
+        </tr>
+        <tr>
+            <td width="35%"> <img align="right" alt="gif" src="pics/naruto.gif" /> </td>
+        </tr>
+              
+</table>
+</tbody>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Vishal2186&show_icons=true&theme=material-palenight&hide_border=fals&border_radius=15&date_format=j%20M%5B%20Y%5D" width = "42.4%">
