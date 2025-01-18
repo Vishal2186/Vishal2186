@@ -91,8 +91,10 @@ class About extends Me {
 </table>
 </tbody> -->
 
-
-
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Vishal2186&show_icons=true&theme=material-palenight&hide_border=fals&border_radius=15&date_format=j%20M%5B%20Y%5D" width = "42.4%">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Vishal2186&theme=material-palenight&hide_border=false&border_radius=15&date_format=j%20M%5B%20Y%5D" width = "45%">
+</p>
 
 <!-- <hr></hr> -->
 <div align="center" width="50">
