@@ -8,6 +8,13 @@ A budding game developer diving into the world of game creation. Currently learn
 <tbody>
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishal2186&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal2186" /> </p>
+  <p align="left"> 
+    <img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Open-Sourcerer/PNG/OpenSourcerer.png" width="5%" alt="Vishal2186" />
+    <img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain_Gold.png" width="5%" alt="Vishal2186" />
+    <img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Pull-Shark/PNG/PullShark.png" width="5%" alt="Vishal2186" />
+    <img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone2.png" width="5%" alt="Vishal2186" />
+  </p>
+ 
 <table>
     <tbody border="0" cellspacing="0" cellpadding="0">
         <tr  style="width:70%">
