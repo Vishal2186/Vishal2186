@@ -9,10 +9,10 @@ A budding game developer diving into the world of game creation. Currently learn
 
   <p align = "right"> 
     <img align="left" src="https://komarev.com/ghpvc/?username=Vishal2186&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal2186" />
-    <img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Open-Sourcerer/PNG/OpenSourcerer.png" width="3%" alt="Vishal2186" />
-    <img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain_Gold.png" width="3%" alt="Vishal2186" />
-    <img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Pull-Shark/PNG/PullShark.png" width="3%" alt="Vishal2186" />
-    <img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone2.png" width="3%" alt="Vishal2186" />
+    <img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Open-Sourcerer/PNG/OpenSourcerer.png" width="4%" alt="Vishal2186" />
+    <img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain_Gold.png" width="4%" alt="Vishal2186" />
+    <img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Pull-Shark/PNG/PullShark.png" width="4%" alt="Vishal2186" />
+    <img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone2.png" width="4%" alt="Vishal2186" />
   </p>
  
 <table>
