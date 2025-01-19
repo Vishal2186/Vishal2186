@@ -125,6 +125,6 @@ class About extends Me {
 #
 
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder=false&theme=cobalt&qColor=#ffffff&aColor=#ffffff" alt="Error fetching resource, Refresh again to view Jokes Card"  width = '11000' />
+<img src="https://readme-jokes.vercel.app/api?hideBorder=false&theme=material-palenight&qColor=#ffffff&aColor=#ffffff" alt="Error fetching resource, Refresh again to view Jokes Card"  width = '11000' />
 <img width="200%" src="pics/hr.gif" />
 <!-- ########################################## ########################################## -->
