@@ -16,31 +16,7 @@ A budding game developer diving into the world of game creation. Currently learn
     <img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone2.png" width="4%" alt="Vishal2186" />
   </p>
  
-<table>
-    <tbody border="0" cellspacing="0" cellpadding="0">
-        <tr  style="width:70%">
-           <td rowspan=6>
-           
-🌱 What I’m working on:   <!-- <img width="30%" align="right" alt="Github Image" src="pics/this.gif" /> -->
-* Building my first games and demos in C++
-* Experimenting with game engines like Unity and Unreal Engine 
-* Growing my knowledge in coding, physics, and design principles 
 
-🎯 Goals:
-*  Release my first complete game
-* Collaborate with other developers to expand my skills
-* Share and learn through open-source projects
-
-Let’s connect and create something amazing together!
-
-  </td>
-        </tr>
-        <tr>
-            <td width="35%"> <img align="right" alt="Github Image" src="pics/this.gif" /> </td>
-        </tr>
-              
-</table>
-</tbody>
 
 
 <table>
