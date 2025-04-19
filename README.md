@@ -1,4 +1,4 @@
-<!-- ########################################## ########################################## -->
+
 <img width="200%" src="pics/hr.gif" />
 <img width="200%" src="pics/dev.gif" />
 
@@ -140,3 +140,4 @@ class About extends Me {
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Macondo&pause=500&color=dfc5fe&vCenter=false&width=630&lines=A+WORLD+OF+ONLY+VICTORS...;A+WORLD+OF+ONLY+PEACE...;A+WORLD+OF+ONLY+LOVE...;I+WILL+CREATE+SUCH+A+WORLD...;I+AM+THE+GHOST+OF+THE+UCHIHA%2C;MADARA+UCHIHA" alt="Typing SVG" /></a>
 </p> 
 -->
+<!-- ########################################## ########################################## -->
