@@ -10,7 +10,7 @@ A budding game developer diving into the world of game creation. Currently learn
   <p align = "right"> 
     <!--OLD COLOR OF PROFILE VIEW :- 0e75b6 -->
     <img align="left" src="https://komarev.com/ghpvc/?username=Vishal2186&label=Profile%20views&color=blueviolet&style=flat" alt="Vishal2186" />
-    <img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Open-Sourcerer/PNG/OpenSourcerer.png" width="4%" alt="Vishal2186" />
+    <img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Mars-2020-Contributor/PNG/Mars2020ContributorBadge.png" width="4%" alt="Vishal2186" />
     <img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain_Gold.png" width="4%" alt="Vishal2186" />
     <img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Pull-Shark/PNG/PullShark.png" width="4%" alt="Vishal2186" />
     <img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone2.png" width="4%" alt="Vishal2186" />
